@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "core": "*",
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -19,6 +20,8 @@
     "@types/react": "^18.0.22",
     "@types/react-dom": "^18.0.7",
     "eslint-config-custom": "*",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.1",
     "tsconfig": "*",
     "typescript": "^4.5.3"
   }
